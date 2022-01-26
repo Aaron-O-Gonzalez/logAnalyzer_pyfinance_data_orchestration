@@ -20,5 +20,5 @@ python3 logAnalyzer.py <path_to_dag_log_folder>
 
 The expected output would look as follows:
 
-<img src="https://github.com/Aaron-O-Gonzalez/logAnalyzer_pyfinance_data_orchestration/blob/master/Sample_ouptut.png" width="128"/>
+<img src="https://github.com/Aaron-O-Gonzalez/logAnalyzer_pyfinance_data_orchestration/blob/master/Sample_ouptut.png"/>
 
